@@ -1,6 +1,6 @@
-# Cours - Bases de Données Non Relationnelles (BD5)
+# Cours - Nouveaux paradigmes de base de données
 
-Ce dossier contient les documents de cours pour la matière **Bases de Données Non Relationnelles** (BD5). Les cours abordent les différentes familles de bases de données, à savoir : 
+Ce dossier contient les documents de cours pour la matière **Nouveaux paradigmes de base de données** (BD5). Les cours abordent les différentes familles de bases de données, à savoir : 
 
 - **Bases de données orientées document** : MongoDB
 - **Bases de données orientées graphe** : Neo4j
@@ -40,8 +40,14 @@ L'objectif de ce cours est de vous fournir une compréhension approfondie des ba
 ## Comment Utiliser ce Dossier
 
 1. **Lire les cours** : Chaque fichier PDF contient des explications théoriques sur le type de base de données abordé. Il est conseillé de lire chaque cours dans l'ordre pour avoir une progression logique.
-2. **Travailler sur les TP** : Pour appliquer les concepts vus dans les cours, référez-vous au dossier [TP](../tp).
-3. **Consulter les ressources supplémentaires** : Des documents et des liens complémentaires sont disponibles dans le dossier [ressources](../docs/ressources).
+2. ## Importance de la Lecture Collective
+
+Il est essentiel de noter que la **lecture collective** réalisée en classe est indispensable pour une bonne compréhension des concepts abordés. Plusieurs éléments, explications et détails sont traités en profondeur durant ces séances. Ces moments d'échanges permettent non seulement d'éclaircir des points complexes, mais aussi de discuter des applications pratiques des bases de données abordées.
+
+---
+
+3. **Travailler sur les TP** : Pour appliquer les concepts vus dans les cours, référez-vous au dossier [TP](../tp).
+4. **Consulter les ressources supplémentaires** : Des documents et des liens complémentaires sont disponibles dans le dossier [ressources](../docs/ressources).
 
 ---
 
