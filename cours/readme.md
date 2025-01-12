@@ -21,7 +21,7 @@ Dans ce cours, nous explorons **MongoDB**, une base de données orientée docume
 
 Ce cours couvre **Neo4j**, une base de données orientée graphe. Vous apprendrez à utiliser des graphes pour représenter des relations complexes entre des entités et à exécuter des requêtes sur ces graphes.
 
-### 3. [Redis - Bases de données orientées clé-valeur](03_BD_orientes_cle_valeur_redis.pdf)
+### 3. [Redis - Étude de cas Étude de cas](03_etude_de_cas_etude_de_cas _Redis.pdf)
 
 Dans ce module, vous étudierez **Redis**, une base de données clé-valeur utilisée pour le stockage en mémoire, très performante pour des opérations rapides de lecture/écriture.
 
