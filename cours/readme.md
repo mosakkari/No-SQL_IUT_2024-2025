@@ -40,7 +40,7 @@ L'objectif de ce cours est de vous fournir une compréhension approfondie des ba
 ## Comment Utiliser ce Dossier
 
 1. **Lire les cours** : Chaque fichier PDF contient des explications théoriques sur le type de base de données abordé. Il est conseillé de lire chaque cours dans l'ordre pour avoir une progression logique.
-2. ## Importance de la Lecture Collective
+2. **Importance de la Lecture Collective**
 
 Il est essentiel de noter que la **lecture collective** réalisée en classe est indispensable pour une bonne compréhension des concepts abordés. Plusieurs éléments, explications et détails sont traités en profondeur durant ces séances. Ces moments d'échanges permettent non seulement d'éclaircir des points complexes, mais aussi de discuter des applications pratiques des bases de données abordées.
 
