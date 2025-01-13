@@ -47,7 +47,7 @@ Il est essentiel de noter que la **lecture collective** réalisée en classe est
 ---
 
 3. **Travailler sur les TP** : Pour appliquer les concepts vus dans les cours, référez-vous au dossier [TP](../tp).
-4. **Consulter les ressources supplémentaires** : Des documents et des liens complémentaires sont disponibles dans le dossier [ressources](../docs/ressources).
+4. **Consulter les ressources supplémentaires** : Les données nécessaires pour exécuter ces TPs se trouvent dans le dossier [ressources](../docs/ressources).
 
 ---
 
