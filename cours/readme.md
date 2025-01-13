@@ -47,7 +47,8 @@ Il est essentiel de noter que la **lecture collective** réalisée en classe est
 ---
 
 3. **Travailler sur les TP** : Pour appliquer les concepts vus dans les cours, référez-vous au dossier [TP](../tp).
-4. **Consulter les ressources supplémentaires** : Les données nécessaires pour exécuter ces TPs se trouvent dans le dossier [ressources](../docs/ressources).
+4. **Consulter les ressources supplémentaires** : Les données nécessaires pour exécuter ces TPs se trouvent dans le dossier [ressources](../docs/ressources). Les fichiers volumineux nécessaires pour certains TPs sont disponibles uniquement sur la plateforme **Moodle**. Veillez à les télécharger directement depuis Moodle avant de commencer les exercices correspondants.  
+
 
 ---
 
