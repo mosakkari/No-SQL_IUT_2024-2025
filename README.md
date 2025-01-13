@@ -41,7 +41,19 @@ L'évaluation du cours BD5 est répartie comme suit :
 - Développer une expertise dans le choix et l’utilisation de bases de données adaptées à des cas d’usage réels.  
 
 ---
+## Comment Utiliser ce Dossier
 
+1. **Lire les cours** : Chaque fichier PDF contient des explications théoriques sur le type de base de données abordé. Il est conseillé de lire chaque cours dans l'ordre pour avoir une progression logique.
+2. **Importance de la Lecture Collective**
+
+Il est essentiel de noter que la **lecture collective** réalisée en classe est indispensable pour une bonne compréhension des concepts abordés. Plusieurs éléments, explications et détails sont traités en profondeur durant ces séances. Ces moments d'échanges permettent non seulement d'éclaircir des points complexes, mais aussi de discuter des applications pratiques des bases de données abordées.
+
+---
+
+3. **Travailler sur les TP** : Pour appliquer les concepts vus dans les cours, référez-vous au dossier [TP](../tp).
+4. **Consulter les ressources supplémentaires** : Des documents et des liens complémentaires sont disponibles dans le dossier [ressources](../docs/ressources).
+
+---
 ## Ressources
 
 - [Documentation officielle MongoDB](https://www.mongodb.com/docs)  
